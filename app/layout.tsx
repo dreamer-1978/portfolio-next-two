@@ -10,7 +10,7 @@ const spaceGrotesk = Space_Grotesk({
 
 
 export const metadata: Metadata = {
-	text: "Portfolio",
+	title: "Portfolio",
 	description: "Portfolio-Next-two",
 };
 

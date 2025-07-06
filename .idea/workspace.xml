@@ -5,23 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ee01046-fd3d-4da8-81e2-8eab3ef98529" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/(home)/components/Hero.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/(home)/components/Navbar.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/(home)/components/Skills.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/(home)/components/Title.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/(home)/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/MyThemeProvider.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/ui/card-hover-effect.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/ui/grid.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/ui/moving-border.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/constants/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/(home)/components/Footer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/(home)/components/Projects.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/ui/direction-aware-hover.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/project1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/project2.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/globals.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(home)/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(home)/page.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/page.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constants/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/constants/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/file.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/globe.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/next.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vercel.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/window.svg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +28,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;dreamer-1978&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:dreamer-1978/portfolio-next-two.git&quot;,
+    &quot;accountId&quot;: &quot;58a13ab2-64a5-429c-851c-d38209d887a2&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -53,6 +62,7 @@
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;js.debugger.nextJs.config.created.client&quot;: &quot;true&quot;,
     &quot;js.debugger.nextJs.config.created.server&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/user/Desktop/Developer/portfolio-next-two/public&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -75,6 +85,9 @@
     </option>
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/app/(home)" />
     </key>
@@ -119,7 +132,12 @@
       <workItem from="1751611136321" duration="8392000" />
       <workItem from="1751655454183" duration="821000" />
       <workItem from="1751656323753" duration="7094000" />
-      <workItem from="1751664056540" duration="2915000" />
+      <workItem from="1751664056540" duration="4512000" />
+      <workItem from="1751685370047" duration="4603000" />
+      <workItem from="1751728220017" duration="1419000" />
+      <workItem from="1751739254241" duration="2358000" />
+      <workItem from="1751780374156" duration="3344000" />
+      <workItem from="1751791120501" duration="411000" />
     </task>
     <servers />
   </component>
